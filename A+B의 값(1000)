@@ -8,7 +8,7 @@ int main()
 	if (A > 0 && B < 10)
 		printf("%d", A + B);
 	else
-		printf("A°¡ 0 ÀÌÇÏ°Å³ª B °¡ 10 ÀÌ»óÀÔ´Ï´Ù!");
+		printf("Aê°€ 0 ì´í•˜ê±°ë‚˜ B ê°€ 10 ì´ìƒìž…ë‹ˆë‹¤!");
 
 	return 0;
 }
